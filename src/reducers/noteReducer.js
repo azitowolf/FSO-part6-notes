@@ -48,7 +48,4 @@ export const initializeNotes = () => {
   }
 }
 
-
-
-
 export default noteReducer
